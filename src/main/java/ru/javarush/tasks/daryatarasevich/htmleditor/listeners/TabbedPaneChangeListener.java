@@ -1,6 +1,6 @@
 package ru.javarush.tasks.daryatarasevich.htmleditor.listeners;
 
-import cru.javarush.tasks.daryatarasevich.htmleditor.view.View;
+import ru.javarush.tasks.daryatarasevich.htmleditor.view.View;
 
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
