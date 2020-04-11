@@ -1,4 +1,4 @@
-package com.javarush.task.task32.task3209;
+package ru.javarush.tasks.daryatarasevich.htmleditor.filter;
 
 import javax.swing.filechooser.FileFilter;
 import java.io.File;
