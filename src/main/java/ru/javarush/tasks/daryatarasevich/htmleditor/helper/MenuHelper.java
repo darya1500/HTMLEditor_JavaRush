@@ -1,4 +1,4 @@
-package com.javarush.task.task32.task3209;
+package ru.javarush.tasks.daryatarasevich.htmleditor.helper;
 
 import com.javarush.task.task32.task3209.actions.*;
 import com.javarush.task.task32.task3209.listeners.TextEditMenuListener;
