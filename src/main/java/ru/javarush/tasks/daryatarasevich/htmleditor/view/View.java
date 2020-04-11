@@ -1,4 +1,4 @@
-package com.javarush.task.task32.task3209;
+package ru.javarush/tasks.daryatarasevich.htmleditor.view;
 
 import com.javarush.task.task32.task3209.listeners.FrameListener;
 import com.javarush.task.task32.task3209.listeners.TabbedPaneChangeListener;
