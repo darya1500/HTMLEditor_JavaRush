@@ -1,8 +1,8 @@
-package ru.javarush/tasks.daryatarasevich.htmleditor.view;
+package ru.javarush.tasks.daryatarasevich.htmleditor.view;
 
-import com.javarush.task.task32.task3209.listeners.FrameListener;
-import com.javarush.task.task32.task3209.listeners.TabbedPaneChangeListener;
-import com.javarush.task.task32.task3209.listeners.UndoListener;
+import ru.javarush.tasks.daryatarasevich.htmleditor.listeners.FrameListener;
+import ru.javarush.tasks.daryatarasevich.htmleditor.listeners.TabbedPaneChangeListener;
+import ru.javarush.tasks.daryatarasevich.htmleditor.listeners.UndoListener;
 
 import javax.swing.*;
 import javax.swing.undo.UndoManager;
