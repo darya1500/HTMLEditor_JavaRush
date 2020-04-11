@@ -1,8 +1,8 @@
 package ru.javarush.tasks.daryatarasevich.htmleditor.helper;
 
-import com.javarush.task.task32.task3209.actions.*;
-import com.javarush.task.task32.task3209.listeners.TextEditMenuListener;
-import com.javarush.task.task32.task3209.listeners.UndoMenuListener;
+import ru.javarush.tasks.daryatarasevich.htmleditor.actions.*;
+import ru.javarush.tasks.daryatarasevich.htmleditor.listeners.TextEditMenuListener;
+import ru.javarush.tasks.daryatarasevich.htmleditor.listeners.UndoMenuListener;
 
 import javax.swing.*;
 import javax.swing.text.DefaultEditorKit;
