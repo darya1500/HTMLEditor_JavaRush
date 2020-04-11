@@ -1,6 +1,6 @@
-package com.javarush.task.task32.task3209.listeners;
+package ru.javarush.tasks.daryatarasevich.htmleditor.listeners;
 
-import com.javarush.task.task32.task3209.View;
+import ru.javarush.tasks.daryatarasevich.htmleditor.view.View;
 import java.awt.event.WindowEvent;
 
 public class FrameListener extends java.awt.event.WindowAdapter {
